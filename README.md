@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patricio</h1>
+<h1 align="center">Hola 👋, Soy Patricio</h1>
 <h3 align="center">Soy un apasionado desarrollador frontend en constante aprendizaje de nuevos frameworks y tecnologías</h3>
 
 - 📫 How to reach me **p.avilaf1998@gmail.com**
