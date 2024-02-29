@@ -18,7 +18,7 @@
   
 <h2 align="left">Contacta Conmigo</h2>
 
-<div style="border: 50px solid green ; border-radius: 50px;  padding: 10px;">
+<div>
     <a href="https://twitter.com/avilaf1998">
         <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
