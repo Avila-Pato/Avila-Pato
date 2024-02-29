@@ -22,7 +22,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavilafigueroa/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avilaapato/)
 
-<div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 5px;">
+<div style="border: 10px solid #e1e4e8; border-radius: 5px; padding: 5px;">
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/avilaf1998)
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavilafigueroa/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avilaapato/)
