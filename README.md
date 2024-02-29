@@ -20,13 +20,13 @@
 
 <div>
     <a href="https://twitter.com/avilaf1998">
-        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"  font-size: 16px padding: 10px 20px;  />
+        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"  padding: 20px 25px;  />
     </a>
     <a href="https://www.linkedin.com/in/pavilafigueroa/">
-        <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="Linkedin Badge" padding: 10px 20px;  />
+        <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="Linkedin Badge" padding: 10px 25px;  />
     </a>
     <a href="https://www.instagram.com/avilaapato/">
-        <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"  padding: 10px 20px;  />
+        <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"  padding: 10px 25px;  />
     </a>
 </div>
 
