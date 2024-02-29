@@ -4,7 +4,7 @@
 ### Acerca de Mi ⭐⭐⭐
 
 - 💡 &nbsp; Estoy en constante aprendizaje con JavaScript, React y Angular.
-- 🚀 &nbsp; Actualmente estoy haciendo nuevos proyectos
+- 🚀 &nbsp; Actualmente, estoy explorando nuevas bibliotecas y herramientas para mis proyectos.
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
 - 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://mail.google.com/mail/u/0/#inbox)!
