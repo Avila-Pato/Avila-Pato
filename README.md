@@ -16,13 +16,14 @@
 - 🍕 &nbsp; Asistir a clases, nuevo contenido entre otras cosas.
 
   
-### Lenguajes y herramientas 🧰
+<h2 align="left">Contacta Conmigo</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/avilaf1998)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavilafigueroa/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avilaapato/)
 
-<h3 align="left">Languages and Tools:</h3>
+
+### Lenguajes y herramientas 🧰
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
