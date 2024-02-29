@@ -18,11 +18,18 @@
   
 <h2 align="left">Contacta Conmigo</h2>
 
-<div style="border: 90px solid #e1e4e8; border-radius: 50px; padding: 5px;"
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/avilaf1998)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavilafigueroa/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/avilaapato/)>
+<div style="border: 50px solid black; padding: 10px;">
+    <a href="https://twitter.com/avilaf1998">
+        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/pavilafigueroa/">
+        <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+    <a href="https://www.instagram.com/avilaapato/">
+        <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
 </div>
+
 
 ### Lenguajes y herramientas 🧰
 <p align="left">
