@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge] (https://www.linkedin.com/in/pavilafigueroa/)
+[![Linkedin Badge] https://www.linkedin.com/in/pavilafigueroa/
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
 
