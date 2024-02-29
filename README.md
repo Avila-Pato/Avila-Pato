@@ -9,14 +9,14 @@
 - 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
 - 💬 &nbsp; Ask me anything [here]()! I am happy to help.
 
-### Mi pasatiempo 🍥 : 
+### Mi pasatiempo 🍥 
 
 - 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proeyctos interesantes
 - 📰 &nbsp; Leer, escribir y ver contenido técnico siempre que sea posible.
 - 🍕 &nbsp; Asistir a clases, nuevo contenido entre otras cosas.
 
   
-<h3 align="left">Connect with me:</h3>
+### Lenguajes y herramientas 🧰
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/avilaf1998)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavilafigueroa/)
