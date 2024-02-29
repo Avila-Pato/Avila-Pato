@@ -8,6 +8,13 @@
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
 - 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
 - 💬 &nbsp; Ask me anything [here]()! I am happy to help.
+
+### Mi pasatiempo 🍥 : 
+
+- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir cosas interesantes.
+- 📰 &nbsp; Leer, escribir y ver contenido técnico siempre que sea posible.
+- 🍕 &nbsp; Asistir a clases, neuvo contenido entre otros.
+
   
 <h3 align="left">Connect with me:</h3>
 
@@ -54,4 +61,8 @@
     <img src="https://vitejs.dev/logo.svg" alt="vite.js" width="40" height="40"/>
   </a>
 </p>
+
+
+ 
+
 
