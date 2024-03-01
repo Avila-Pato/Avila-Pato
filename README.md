@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Patricio</h1>
+<h1 align="center">Hola! 👋, Soy Patricio</h1>
 <h3 align="center">Soy un apasionado desarrollador frontend en constante aprendizaje de nuevos frameworks y tecnologías</h3>
 
 ### Acerca de Mi ⭐⭐⭐
