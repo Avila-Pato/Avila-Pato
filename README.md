@@ -3,7 +3,7 @@
 
 ### Acerca de Mi ⭐⭐⭐
 
-<img align= "right" alt="imagen" border-radius="50px" width="380px" src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif">
+<img align="right" alt="imagen" width="380px" src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif" style="border-radius: 50px;">
 
 - 💡 &nbsp; Estoy en constante aprendizaje con JavaScript, React y Angular.
 - 🚀 &nbsp; Actualmente, estoy explorando nuevos Framewoks y herramientas de programcion para un mejor desarrollo.
