@@ -11,8 +11,8 @@
 
 ### Mi pasatiempo 🍥 
 
-- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proeyctos interesantes
-- 📰 &nbsp; Leer, escribir y ver contenido técnico siempre que sea posible.
+- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proyectos interesantes
+- 📰 &nbsp; Leer, escribir y aprender contenido técnico siempre que sea posible.
 - 🍕 &nbsp; Asistir a clases, nuevo contenido entre otras cosas.
 
   
