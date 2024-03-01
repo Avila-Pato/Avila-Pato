@@ -8,7 +8,7 @@
 - 💡 &nbsp; Estoy en constante desarrollo en JavaScript, React y Angular.
 - 🚀 &nbsp; Exploro los Framewoks y herramientas de programacion.
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
-- 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
+- 👾 &nbsp; Dedicando un score de tiempo para desenredar líneas de código y descubrir errores. 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
   
 ### Mi pasatiempo 🍥 
