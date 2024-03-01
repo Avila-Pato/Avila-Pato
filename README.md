@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, Soy Patricio</h1>
 <h3 align="center">Soy un apasionado desarrollador frontend en constante aprendizaje de nuevos frameworks y tecnologías</h3>
-<img style="float: right; margin-right: 10px;" alt="imagen" width="380px" src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif">
+<img style="float: left; margin-left: 10px;" alt="imagen" width="380px" src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif">
 
 
 
