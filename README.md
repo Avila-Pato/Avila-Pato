@@ -18,7 +18,7 @@
 - 🍕 &nbsp; Me gusta ver documentales,explorar,investigar,comer,ejercitarme..
 
   
-<h2 align="left">Contacta Conmigo</h2>
+<h3 align="left">Contacta Conmigo</h3>
 
 <div>
     <a href="https://twitter.com/avilaf1998">
@@ -33,7 +33,7 @@
 </div>
 
 
-### Lenguajes y herramientas 🧰
+### Lenguajes y herramientas 
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
