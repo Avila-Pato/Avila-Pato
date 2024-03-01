@@ -9,26 +9,6 @@
 - 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
   
-<style>
-    .animated-image-container {
-        max-width: 100%; /* Establecer un ancho máximo */
-        height: auto; /* Ajustar la altura automáticamente */
-    }
-
-    .animated-image {
-        width: 100%; /* Ajustar el ancho de la imagen al contenedor */
-        height: auto; /* Ajustar la altura automáticamente */
-    }
-</style>
-
-<!-- Contenedor de la imagen -->
-<span class="animated-image-container" data-target="animated-image.imageContainer">
-    <!-- Imagen -->
-    <img class="animated-image" data-target="animated-image.replacedImage" alt="Coding" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
-    <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="400" height="300"></canvas>
-</span>
-
-
 ### Mi pasatiempo 🍥 
 
 - 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proyectos interesantes
