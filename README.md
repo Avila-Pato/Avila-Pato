@@ -7,7 +7,7 @@
 - 🚀 &nbsp; Actualmente, estoy explorando nuevos Framewoks y herramientas de programcion para un mejor desarrollo.
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
 - 👾 &nbsp; Dato curioso: En JavaScript, algunas veces null es igual a null, ¡pero otras veces no! 🤯
-- 💬 &nbsp; Preguntame [Aqui](https://github.com/Avila-Pato)!
+- 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
 
 ### Mi pasatiempo 🍥 
 
