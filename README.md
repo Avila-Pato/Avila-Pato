@@ -23,7 +23,7 @@
 
 <div>
     <a href="https://twitter.com/avilaf1998">
-        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter " />
+        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter " border-color: green />
     </a>
     <a href="https://www.linkedin.com/in/pavilafigueroa/">
         <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="Linkedin "/>
