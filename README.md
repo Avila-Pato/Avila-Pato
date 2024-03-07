@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Patricio</h1>
-<h3 align="center">Soy un apasionado desarrollador frontend en constante aprendizaje de nuevos frameworks y tecnologías</h3>
+<h3 align="center">Soy un desarrollador autodidacta en constante aprendizaje de nuevos frameworks y tecnologías, enfocado en el desarrollo frontend. </h3>
 
 ### Acerca de Mi ⭐⭐⭐
 
@@ -65,6 +65,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  width="50" height="50"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js"  width="50" height="50"/>
+</a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="50" height="50"/>
   </a>
