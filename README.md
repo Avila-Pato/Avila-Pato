@@ -8,7 +8,7 @@
 - 💡 &nbsp; Estoy en constante desarrollo en JavaScript, React y Angular.
 - 🚀 &nbsp; Exploro los Framewoks y herramientas de programacion.
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
-- 👾 &nbsp; Dedicando un score de tiempo para desenredar líneas de código y descubrir errores. 🤯
+- 👾 &nbsp; Dedicando unas score de tiempo para desenredar líneas de código y descubrir errores. 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
   
 ### Mi pasatiempo 🍥 
