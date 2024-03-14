@@ -78,8 +78,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="50" height="50"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="50" height="50"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="50" height="50"/>
+</a>
   
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="vite.js"  width="50" height="50"/>
@@ -92,25 +92,27 @@
 </p>
 
 
+
 <!-- Opción 1 -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100" height="100"/>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="100" height="100"/>
 </a>
 
 <!-- Opción 2 -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="100" height="100"/>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
 </a>
 
 <!-- Opción 3 -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop" width="100" height="100"/>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="100" height="100"/>
 </a>
 
 <!-- Opción 4 -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/452/adobe-photoshop.png" alt="Photoshop" width="100" height="100"/>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/500/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
 </a>
+
 
 
 
