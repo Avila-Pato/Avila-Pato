@@ -19,7 +19,7 @@
 
 
   
-<h3 align="left">Contacta Conmigo</h3>
+<h3 align="left">Mis Redes Sociales</h3>
 
 
 <div>
