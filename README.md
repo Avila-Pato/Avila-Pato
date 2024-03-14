@@ -71,8 +71,8 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js"  width="50" height="50"/>
 </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/home/press-kit/vercel-logo-black.svg" alt="Vercel" width="50" height="50"/>
+  <<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets.vercel.com/image/upload/v1607554385/home/press-kit/vercel-logo-black.svg" alt="Vercel" width="100" height="100"/>
 </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="50" height="50"/>
@@ -85,6 +85,7 @@
   </a>
   <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </a>
 </p>
