@@ -92,6 +92,25 @@
 </p>
 
 
+<!-- Opción 1 -->
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100" height="100"/>
+</a>
+
+<!-- Opción 2 -->
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="100" height="100"/>
+</a>
+
+<!-- Opción 3 -->
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop" width="100" height="100"/>
+</a>
+
+<!-- Opción 4 -->
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/452/adobe-photoshop.png" alt="Photoshop" width="100" height="100"/>
+</a>
 
 
 
