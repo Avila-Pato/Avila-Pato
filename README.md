@@ -113,6 +113,26 @@
   <img src="https://img.icons8.com/ios-filled/500/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
 </a>
 
+<!-- Opción 5 -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-glyphs/480/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
+</a>
+
+<!-- Opción 6 -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/metro/452/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
+</a>
+
+<!-- Opción 7 -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/dusk/344/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
+</a>
+
+<!-- Opción 8 -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/wired/500/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
+</a>
+
 
 
 
