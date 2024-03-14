@@ -97,20 +97,5 @@
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" width="100" height="100"/>
 </a>
 
-<!-- Opción 2 -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo-dark.png" alt="Vercel" width="100" height="100"/>
-</a>
 
-<!-- Opción 3 -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/vercel.svg" alt="Vercel" width="100" height="100"/>
-</a>
-
-<!-- Opción 4 -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/vercel-color.svg" alt="Vercel" width="100" height="100"/>
-</a>
-
- 
 
