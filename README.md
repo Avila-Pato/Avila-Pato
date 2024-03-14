@@ -42,7 +42,9 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  width="50" height="50"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-glyphs/480/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+</a>
+
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
@@ -93,45 +95,7 @@
 
 
 
-<!-- Opción 1 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="100" height="100"/>
-</a>
 
-<!-- Opción 2 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/452/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 3 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 4 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-filled/500/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 5 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-glyphs/480/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 6 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/metro/452/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 7 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/dusk/344/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
-
-<!-- Opción 8 -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/wired/500/000000/bootstrap.png" alt="Bootstrap" width="100" height="100"/>
-</a>
 
 
 
