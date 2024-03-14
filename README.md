@@ -71,8 +71,8 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js"  width="50" height="50"/>
 </a>
-  <<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/home/press-kit/vercel-logo-black.svg" alt="Vercel" width="100" height="100"/>
+ <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" width="100" height="100"/>
 </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="50" height="50"/>
@@ -92,10 +92,6 @@
 </p>
 
 
-<!-- Opción 1 -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" width="100" height="100"/>
-</a>
 
 
 
