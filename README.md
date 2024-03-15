@@ -11,7 +11,7 @@
 - 👾 &nbsp; Dedicando unas score de tiempo para desenredar líneas de código y descubrir errores. 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
   
-### Mi pasatiempo 🍥 
+### Mis pasatiempo 🍥 
 
 - 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proyectos interesantes.
 - 📰 &nbsp; Siempre intento leer y aprender contenido técnico en la medida de lo posible
