@@ -5,8 +5,8 @@
 
 <img align="right" alt="imagen" width="380px" src="https://www.likeinteligente.org/wp-content/uploads/2023/10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif"/>
 
-- 💡 &nbsp; Estoy en constante desarrollo en JavaScript, React y Angular.
-- 🚀 &nbsp; Exploro los Framewoks y herramientas de programacion.
+- 💡 &nbsp; Me desarrollo en Frameworks como JavaScript, React y Angular.
+- 🚀 &nbsp; Exploro sus conponentes y herramientas para un mejor analisis.
 - 📫 &nbsp; Contáctame en: p.avila1998@gmail.com.
 - 👾 &nbsp; Dedicando unas score de tiempo para desenredar líneas de código y descubrir errores. 🤯
 - 💬 &nbsp; Preguntame [Aqui](https://web.whatsapp.com/)!
@@ -14,8 +14,8 @@
 ### Mi pasatiempo 🍥 
 
 - 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir Proyectos interesantes.
-- 📰 &nbsp; Leer, escribir y aprender contenido técnico siempre que sea posible.
-- 🍕 &nbsp; Me gusta ver documentales,explorar,investigar,comer,ejercitarme.. 
+- 📰 &nbsp; Siempre intento leer y aprender contenido técnico en la medida de lo posible
+- 🍕 &nbsp; Disfruto viendo documentales, explorando, investigando, Ejercitarme, Viajando, etc..
 
 
   
