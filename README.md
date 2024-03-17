@@ -97,6 +97,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
 ![Avila-Pato](https://github-readme-stats.vercel.app/api?username=Avila-Pato&show_icons=true&theme=radical)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/d8be156e1d20128302a562cd91de2fc741f81f503cda7d774cebc9aba456c098/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d646f6e7574" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&amp;layout=donut" style="max-width: 100%;"></a>
+<a href="https://github.com/Avila-Pato/github-readme-stats"><img src="https://camo.githubusercontent.com/d8be156e1d20128302a562cd91de2fc741f81f503cda7d774cebc9aba456c098/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d646f6e7574" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&amp;layout=donut" style="max-width: 100%;"></a>
 
 
