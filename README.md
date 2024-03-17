@@ -99,7 +99,8 @@
 
 ![Avila-Pato](https://github-readme-stats.vercel.app/api?username=Avila-Pato&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&amp;layout=donut" alt="Top Langs" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&amp;layout=donut&amp;theme=radical" alt="Top Langs" style="max-width: 100%;">
+
 
 
 
