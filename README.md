@@ -97,7 +97,7 @@
 <div class="w-full md:w-8/12 justify-center flex flex-col flex-wrap md:my-4"><img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=Avila-pato&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avila-pato&amp;theme=dark&amp;hide_border=false" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-pato&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></div>
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
 
 
 
