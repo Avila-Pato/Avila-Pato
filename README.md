@@ -95,12 +95,12 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
+# Mi perfil de GitHub
 
-![Avila-Pato](https://github-readme-stats.vercel.app/api?username=Avila-Pato&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&amp;layout=donut&amp;theme=radical" alt="Top Langs" style="max-width: 100%;">
+[![Avila-Pato GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avila-Pato&show_icons=true&theme=radical)](https://github.com/Avila-Pato)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&layout=donut&theme=radical)](https://github.com/Avila-Pato)
 
 
