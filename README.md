@@ -96,6 +96,6 @@
 ---
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
-![Aila-Pato](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Avila-Pato](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
