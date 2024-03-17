@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Patricio</h1>
-<h3 align="center">Soy un desarrollador autodidacta en constante aprendizaje de frameworks y tecnologías, enfocado en el desarrollo FrontEnd y BackEnd. </h3>
+<h3 align="center">Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programacion, enfocado en el desarrollo FrontEnd y BackEnd. </h3>
 
 ### Acerca de Mi ⭐⭐⭐
 
