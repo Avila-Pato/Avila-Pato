@@ -93,7 +93,7 @@
 </a>
 </p>
 
-# ---
+ ---
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
