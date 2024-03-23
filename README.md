@@ -91,9 +91,26 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer">
-  <img src="URL_DE_LA_IMAGEN_DE_ASTRO" alt="Astro" width="50" height="50"/>
+<!-- Opción 1: Símbolo de Astrología -->
+<a href="URL_DE_DESTINO" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SiderealZodiac.png/220px-SiderealZodiac.png" alt="Astro" width="50" height="50"/>
 </a>
+
+<!-- Opción 2: Constelación -->
+<a href="URL_DE_DESTINO" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sidney_Hall_-_Urania%27s_Mirror_-_Andromeda_and_Perseus.jpg/220px-Sidney_Hall_-_Urania%27s_Mirror_-_Andromeda_and_Perseus.jpg" alt="Astro" width="50" height="50"/>
+</a>
+
+<!-- Opción 3: Sistema Solar -->
+<a href="URL_DE_DESTINO" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Solar_System_Planets_v7.jpg/220px-Solar_System_Planets_v7.jpg" alt="Astro" width="50" height="50"/>
+</a>
+
+<!-- Opción 4: Zodíaco -->
+<a href="URL_DE_DESTINO" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zodiac_Libra.png/220px-Zodiac_Libra.png" alt="Astro" width="50" height="50"/>
+</a>
+
 
 </p>
 
