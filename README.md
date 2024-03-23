@@ -35,7 +35,7 @@
 </div>
 
 
-### Lenguajes y herramientas 
+### Lenguajes y herramientas que He Usado
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
