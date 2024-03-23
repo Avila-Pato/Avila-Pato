@@ -48,7 +48,8 @@
   <img src="https://img.icons8.com/ios-glyphs/480/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
 </a>
 <a>
-[<img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" width="50" height="50">](https://astro.build/)
+[<img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" width="50" height="50">](https://astro.build/){:target="_blank"}
+
  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
