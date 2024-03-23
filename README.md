@@ -34,7 +34,9 @@
     </a>
 </div>
 
-![image](https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550)
+
+<img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" width="50" height="50">
+
 
 ### Lenguajes y herramientas que He Usado
 
