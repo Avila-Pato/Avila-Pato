@@ -91,6 +91,10 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer">
+  <img src="URL_DE_LA_IMAGEN_DE_ASTRO" alt="Astro" width="50" height="50"/>
+</a>
+
 </p>
 
  ---
