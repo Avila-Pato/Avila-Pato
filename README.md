@@ -47,10 +47,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-glyphs/480/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
 </a>
-<a>
-[<img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" width="50" height="50">](https://astro.build/){:target="_blank"}
-
- </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
   </a>
@@ -94,6 +90,9 @@
   <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+</a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" alt="nueva-imagen" width="50" height="50"/>
 </a>
 
 
