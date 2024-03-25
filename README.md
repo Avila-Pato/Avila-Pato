@@ -85,8 +85,7 @@
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="![image](https://github.com/Avila-Pato/Avila-Pato/assets/152195893/464fdc90-38a7-4ac4-a86d-c25c3561181e)
-" alt="Python" width="50" height="50"/>
+  <img src=" https://cdn-icons-png.flaticon.com/512/3098/3098090.png" alt="Python" width="50" height="50"/>
 </a>
 
   
