@@ -94,6 +94,7 @@
 <a href="https://astro.build/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" alt="nueva-imagen" width="50" height="50"/>
 </a>
+[<img src="https://github.com/Avila-Pato/Avila-Pato/blob/main/assets/python_logo.png?raw=true" alt="Python Logo" width="50" height="50"/>](https://astro.build/)
 
 
 
