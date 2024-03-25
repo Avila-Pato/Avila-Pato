@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Me gusta explorar nuevas tecnologías y construir Proyectos interesantes.
 - 📰 &nbsp; Siempre intento leer y aprender contenido técnico en la medida de lo posible
-- 🍕 &nbsp; Disfruto viendo documentales, explorando, investigando, Ejercitarme, Viajando, etc..
+- 🍕 &nbsp; Disfruto viendo documentales, explorando, investigando, Ejercitarme, Viajando, etc.
 
 
   
