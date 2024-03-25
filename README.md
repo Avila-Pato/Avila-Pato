@@ -83,16 +83,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="50" height="50"/>
 </a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" alt="Python" width="50" height="50"/>
-</a>
-
-
-
-
-
-  
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="vite.js"  width="50" height="50"/>
   </a>
@@ -103,13 +93,7 @@
 <a href="https://astro.build/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" alt="nueva-imagen" width="50" height="50"/>
 </a>
-
-
-
-
 </p>
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Avila-Pato&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
