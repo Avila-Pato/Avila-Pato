@@ -85,10 +85,10 @@
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src=" https://cdn-icons-png.flaticon.com/512/3098/3098090.png" alt="Python" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" alt="Python" width="50" height="50"/>
 </a>
-[<img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" alt="Python" width="50" height="50"/>]
-[<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python" width="50" height="50"/>]
+
+
 
 
 
