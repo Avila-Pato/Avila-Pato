@@ -83,6 +83,12 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="50" height="50"/>
 </a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="![image](https://github.com/Avila-Pato/Avila-Pato/assets/152195893/464fdc90-38a7-4ac4-a86d-c25c3561181e)
+" alt="Python" width="50" height="50"/>
+</a>
+
   
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="vite.js"  width="50" height="50"/>
@@ -94,7 +100,7 @@
 <a href="https://astro.build/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Avila-Pato/Avila-Pato/assets/152195893/b7bc1d29-4381-4ad0-88d8-7ed3c984d550" alt="nueva-imagen" width="50" height="50"/>
 </a>
-[<img src="https://github.com/Avila-Pato/Avila-Pato/blob/main/assets/python_logo.png?raw=true" alt="Python Logo" width="50" height="50"/>](https://astro.build/)
+
 
 
 
