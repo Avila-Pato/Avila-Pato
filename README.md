@@ -6,7 +6,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca De Mi**
 ---
 
-<img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" width="400" align="right"/>
+<img src="https://www.slate.com/content/dam/slate/blogs/the_spot/2014/06/23/herrera-4.gif.CROP.original-original.gif" width="400" align="right"/>
 
 - :school: Me desarrollo en lenguajes como Javascript, Python, Angular y React.
 - :books: Mi especialidad es **Desarrollo Web**.
