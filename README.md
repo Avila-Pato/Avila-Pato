@@ -74,10 +74,6 @@
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
          alt="snake" /></a>
 </div>
-<div align="center">
-  <a><img height='64' style='border:0px;height:64px;' src='https://img.izismile.com/img/img3/20100215/404_errors_18.jpg' border='0' alt='Soy un boton' /></a>
-</div>
 
-<br/>
 
 
