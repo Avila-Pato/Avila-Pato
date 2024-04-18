@@ -75,12 +75,9 @@
          alt="snake" /></a>
 </div>
 <div align="center">
-  <a><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Soy un boton' /></a>
+  <a><img height='64' style='border:0px;height:64px;' src='https://img.izismile.com/img/img3/20100215/404_errors_18.jpg' border='0' alt='Soy un boton' /></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href='https://github.com/Avila-Pato' target='_blank'>Mi perfil en GitHub</a>
-</div>
 
