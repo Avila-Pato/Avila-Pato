@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hola!+👋;+Soy+Patricio+Avila!;" />
 </h1>
 
-[![pgp](https://img.shields.io/badge/pgp-0xB928720AEC532117-313131?style=flat-square&labelColor=313131&color=313131)](https://orhun.dev/orhun.gpg) 
+<img align="left" src="https://orhun.dev/img/crow.png">
 
  Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo tanto FrontEnd como BackEnd.
 
