@@ -70,7 +70,7 @@
   <img title="🔥Hello" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avila-Pato&theme=dark&hide_border=false" />
 </p>
 
-### 🐍 &nbsp;
+### 🐍 &nbsp; ### 🐍 &nbsp;
 
 <div align="center">
   <a href="https://github.com/Avila-Pato/">
