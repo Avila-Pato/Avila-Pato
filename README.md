@@ -70,13 +70,13 @@
   <img title="🔥Hello" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avila-Pato&theme=dark&hide_border=false" />
 </p>
 
-### 🐍 &nbsp; ### 🐍 &nbsp;
+<div align="center"> 🐍 &nbsp; Mi Contribuicion 🐍 &nbsp;  </div>
 
 <div align="center">
   <a href="https://github.com/Avila-Pato/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
          alt="snake" /></a>
-</div>
+
 
 
 
