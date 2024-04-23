@@ -22,7 +22,7 @@
 - :sunglasses: Mi cita es **'Nunca es tarde: nunca es tarde para empezar de nuevo, una especialidad no definirá lo que harás o lo que eres'**.
 - :ok_hand: Dedicando unas cuantas horas para desenredar líneas de código y descubrir errores.
 
-## <h3 align="center"> Contacta Conmigo 🤝 </h3>
+## <h3 align="center"> Mis Redes Sociales 🤝 </h3>
 
 <p align="center">
 <div align="center" class="icons-social">
