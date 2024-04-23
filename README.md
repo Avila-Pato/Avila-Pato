@@ -32,7 +32,7 @@
 </a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/Avila-Pato">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23548171/patricio-avila">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/avilaapato/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
