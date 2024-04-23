@@ -7,7 +7,7 @@
 </h1>
 
 
- Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo tanto FrontEnd como BackEnd.
+### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo tanto FrontEnd como BackEnd.
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca De Mi**
 ---
