@@ -30,15 +30,15 @@
    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/pavilafigueroa/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
 </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Avila-Pato">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/avilaapato/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/avilaf1998">
         <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCQWptaypiKMYhqVEvQE2ZHA">
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
