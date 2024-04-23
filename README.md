@@ -26,22 +26,23 @@
 
 <p align="center">
 <div align="center" class="icons-social">
-   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/pavilafigueroa/">
+   <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/pavilafigueroa/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
 </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Avila-Pato">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://github.com/Avila-Pato">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23548171/patricio-avila">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/23548171/patricio-avila">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/avilaapato/">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/avilaapato/">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/avilaf1998">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://twitter.com/avilaf1998">
         <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCQWptaypiKMYhqVEvQE2ZHA">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCQWptaypiKMYhqVEvQE2ZHA">
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:p.avilaf1998@gmail.com">
+    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
