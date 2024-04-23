@@ -25,7 +25,6 @@
 ## <h3 align="center"> Contacta Conmigo 🤝 </h3>
 
 <p align="center">
-
 <div align="center" class="icons-social">
    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/pavilafigueroa/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
@@ -42,7 +41,8 @@
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
-</div>	
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       
