@@ -7,7 +7,7 @@
 </h1>
 
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
+ 
 
 ### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo FrontEnd con conocimiento BackEnd.
 
