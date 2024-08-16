@@ -12,7 +12,7 @@
 
 ### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo FrontEnd con conocimiento BackEnd.
 
-<img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> **Acerca De Mi**
+<img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **Acerca De Mi**
 ---
 
 <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" align="right"/>
