@@ -59,7 +59,7 @@
 
 ---
 
- # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></div>
+ # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
 
 <p align="center">
   <a href="https://skillicons.dev">
