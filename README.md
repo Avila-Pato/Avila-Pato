@@ -44,22 +44,7 @@
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
-    <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
-    <img src="https://img.icons8.com/doodle/40/000000/docker.png" alt="Docker">
-        <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker">
-            <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 256">
-        <rect width="256" height="256" fill="#2496ED" rx="40"/>
-        <path fill="#fff" d="M106.4,112H75.2c-5.6,0-8.8-2.4-8.8-8.8V75.2c0-5.6,2.4-8.8,8.8-8.8h31.2c5.6,0,8.8,2.4,8.8,8.8v28c0,5.6-2.4,8.8-8.8,8.8Zm83.2,0h-31.2c-5.6,0-8.8-2.4-8.8-8.8V75.2c0-5.6,2.4-8.8,8.8-8.8h31.2c5.6,0,8.8,2.4,8.8,8.8v28c0,5.6-2.4,8.8-8.8,8.8ZM171.2,164H140c-5.6,0-8.8-2.4-8.8-8.8v-28c0-5.6,2.4-8.8,8.8-8.8h31.2c5.6,0,8.8,2.4,8.8,8.8v28c0,5.6-2.4,8.8-8.8,8.8Zm-83.2,0H75.2c-5.6,0-8.8-2.4-8.8-8.8v-28c0-5.6,2.4-8.8,8.8-8.8h31.2c5.6,0,8.8,2.4,8.8,8.8v28c0,5.6-2.4,8.8-8.8,8.8Zm154.4-16c-3.2,0-6.4,0-9.6-0.8-28.8-8-49.6-30.4-56-60.8-0.8-3.2-0.8-6.4-0.8-9.6v-9.6c0-3.2,0-6.4,0.8-9.6,8-28.8,30.4-49.6,60.8-56,3.2-0.8,6.4-0.8,9.6-0.8,32.8,0,59.2,24,66.4,56,8,34.4-6.4,69.6-40,83.2-3.2,0.8-6.4,0.8-9.6,0.8Zm-9.6,0c-1.6,0-3.2,0-4.8-0.8-1.6,0-3.2-0.8-4.8-0.8-22.4-8-39.2-28-46.4-51.2-8.8-21.6-6.4-44.8,6.4-62.4-12,6.4-24.8,15.2-35.2,26.4v55.2c0,22.4,12,41.6,30.4,52-12-7.2-20-18.4-20-31.2V116c0-8,0-16,0-24.8s0-16,0-24.8v-6.4c0-12-8-22.4-19.2-27.2-12-5.6-26.4-5.6-37.6,0-11.2,5.6-19.2,15.2-19.2,27.2v9.6c0,8-2.4
-
-</a>
-
-</a>
-
-   
-</a>
-
+ 
 
 </div>
 
@@ -80,7 +65,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,npm,pnpm,java,js,stackoverflow,mongodb,mysql,bootstrap,php,nextjs,nodejs,postman,react,angular,tailwind,ts,vscode,illustrator,photoshop,vite,vercel,python,astro&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,npm,pnpm,java,js,stackoverflow,mongodb,mysql,bootstrap,php,nextjs,docker,nodejs,postman,react,angular,tailwind,ts,vscode,illustrator,photoshop,vite,vercel,python,astro&perline=14" />
   </a>
 </p>
 
