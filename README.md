@@ -47,7 +47,6 @@
     <a href="https://www.docker.com/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.icons8.com/doodle/40/000000/docker.png" alt="Docker">
 </a>
-</a>
 
 </div>
 
