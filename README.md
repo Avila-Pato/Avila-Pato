@@ -44,8 +44,10 @@
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
-     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCQWptaypiKMYhqVEvQE2ZHA">
-        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="Docker"></a>
+     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
+    <img src="https://img.icons8.com/doodle/1x/docker.png" alt="Docker">
+</a>
+
 </div>
 
 
