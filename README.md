@@ -20,7 +20,7 @@
 - :school: Me desarrollo en lenguajes como Javascript, React, TypeScript, Python, Java y PHP.
 - :books: Mi especialidad es **Desarrollo Web**.
 - :earth_asia: Estoy viviendo en **San Bernardo, Santiago, Chile**.
-- :sweat_smile: Soy Por el momento un Junuior en programación, con conocimientos en múltiples lenguajes. Actualmente, me estoy enfocando en aprender Desarrollo Web.
+- :sweat_smile: Soy Por el momento un Junior en programación, con conocimientos en múltiples lenguajes. Actualmente, me estoy enfocando en aprender Desarrollo Web.
 - :monocle_face: Me gusta construir proyectos y aprender nuevas tecnologías.
 - :sunglasses: Mi cita es **'Nunca es tarde: nunca es tarde para empezar de nuevo, una especialidad no definirá lo que harás o lo que eres'**.
 - :ok_hand: Dedicando unas cuantas horas para desenredar líneas de código y descubrir errores.
