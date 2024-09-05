@@ -17,7 +17,7 @@
 
 <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" align="right"/>
 
-- :school: Me desarrollo en lenguajes como Javascript, React, TypeScript, Python, Java y PHP.
+- :school: Me desarrollo en lenguajes como Javascript,Node.js, React.Js, TypeScript, Java y PHP.
 - :books: Mi especialidad es **Desarrollo Web**.
 - :earth_asia: Estoy viviendo en **San Bernardo, Santiago, Chile**.
 - :sweat_smile: Soy Por el momento un Junior en programación, con conocimientos en múltiples lenguajes. Actualmente, me estoy enfocando en aprender Desarrollo Web.
