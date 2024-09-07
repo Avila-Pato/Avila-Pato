@@ -52,11 +52,9 @@
 
 ---
 
----
+## Proyectos Destacados 🎮
 
-## Proyectos Funnies 🎮
-
-Aquí tienes algunos de mis proyectos más recientes. ¡Echa un vistazo y diviértete!
+Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces para visitarlos:
 
 - 🎨 [Clon de Paint](https://clon-paint.vercel.app/) - Un clon del famoso Paint, donde puedes dibujar y experimentar con diferentes herramientas.
 - 🕵️‍♂️ [Buscaminas en React y TypeScript](https://buscaminas-react-ts.vercel.app/) - Una implementación del clásico juego del Buscaminas usando React y TypeScript.
@@ -68,8 +66,9 @@ Aquí tienes algunos de mis proyectos más recientes. ¡Echa un vistazo y divié
 
 ---
 
+**Nota:** Los enlaces abrirán en la misma pestaña. Si deseas abrirlos en una nueva pestaña, puedes hacer clic derecho en el enlace y seleccionar "Abrir en una nueva pestaña".
 
----
+
 
  # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
 
