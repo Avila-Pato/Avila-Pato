@@ -70,14 +70,6 @@ Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces pa
 
 
 
-**Nota:** Los enlaces abrirán en la misma pestaña. Si deseas abrirlos en una nueva pestaña, puedes hacer clic derecho en el enlace y seleccionar "Abrir en una nueva pestaña".
-
-
-
-**Nota:** Los enlaces abrirán en la misma pestaña. Si deseas abrirlos en una nueva pestaña, puedes hacer clic derecho en el enlace y seleccionar "Abrir en una nueva pestaña".
-
-
-
  # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
 
 <p align="center">
