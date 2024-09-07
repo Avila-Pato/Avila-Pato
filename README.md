@@ -56,15 +56,32 @@
 
 Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces para visitarlos:
 
-- 🎨 [Clon de Paint](https://clon-paint.vercel.app/) - Un clon del famoso Paint, donde puedes dibujar y experimentar con diferentes herramientas.
-- 🕵️‍♂️ [Buscaminas en React y TypeScript](https://buscaminas-react-ts.vercel.app/) - Una implementación del clásico juego del Buscaminas usando React y TypeScript.
-- ❓ [Quiz de JavaScript](https://javascript-quizz-two.vercel.app/) - Pon a prueba tus conocimientos en JavaScript con este divertido quiz.
-- 🐵 [Monkey Type (JS, CSS, HTML)](https://monkey-type-js-css-html.vercel.app/) - Una aplicación para practicar la mecanografía con un divertido diseño de mono.
-- 🥁 [Juego de Batería](https://game-bateria.zeabur.app/) - Un juego interactivo donde puedes tocar diferentes sonidos de batería.
-- 🕹️ [Arkanoid](https://arkanoid-game.zeabur.app/) - Un clásico juego de romper bloques con una pelota y una paleta.
-- 🐱 [Juego del Gato](https://react-clon-game-gato.vercel.app/) - Un divertido juego del gato (tic-tac-toe) creado con React.
+- 🎨 [Clon de Paint](https://clon-paint.vercel.app/)  
+  **Sobre el Proyecto:** Un clon del famoso Paint, donde puedes dibujar y experimentar con diferentes herramientas.
+
+- 🕵️‍♂️ [Buscaminas en React y TypeScript](https://buscaminas-react-ts.vercel.app/)  
+  **Sobre el Proyecto:** Una implementación del clásico juego del Buscaminas usando React y TypeScript.
+
+- ❓ [Quiz de JavaScript](https://javascript-quizz-two.vercel.app/)  
+  **Sobre el Proyecto:** Pon a prueba tus conocimientos en JavaScript con este divertido quiz.
+
+- 🐵 [Monkey Type (JS, CSS, HTML)](https://monkey-type-js-css-html.vercel.app/)  
+  **Sobre el Proyecto:** Una aplicación para practicar la mecanografía con un divertido diseño de mono.
+
+- 🥁 [Juego de Batería](https://game-bateria.zeabur.app/)  
+  **Sobre el Proyecto:** Un juego interactivo donde puedes tocar diferentes sonidos de batería.
+
+- 🕹️ [Arkanoid](https://arkanoid-game.zeabur.app/)  
+  **Sobre el Proyecto:** Un clásico juego de romper bloques con una pelota y una paleta.
+
+- 🐱 [Juego del Gato](https://react-clon-game-gato.vercel.app/)  
+  **Sobre el Proyecto:** Un divertido juego del gato (tic-tac-toe) creado con React.
 
 ---
+
+**Nota:** Los enlaces abrirán en la misma pestaña. Si deseas abrirlos en una nueva pestaña, puedes hacer clic derecho en el enlace y seleccionar "Abrir en una nueva pestaña".
+
+
 
 **Nota:** Los enlaces abrirán en la misma pestaña. Si deseas abrirlos en una nueva pestaña, puedes hacer clic derecho en el enlace y seleccionar "Abrir en una nueva pestaña".
 
