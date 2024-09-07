@@ -54,7 +54,7 @@
 
 ## Aburrido? ¡Ponte a jugar!
 
-Si estás buscando una manera divertida de pasar el tiempo, echa un vistazo a este [juego del gato](https://react-clon-game-gato.vercel.app/). ¡Es un proyecto que he creado y espero que te diviertas jugando!
+ echa un vistazo a este [juego del gato](https://react-clon-game-gato.vercel.app/). ¡Es un proyecto que he creado y espero que te diviertas!
 
 ---
 
