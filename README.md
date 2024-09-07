@@ -1,14 +1,9 @@
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hola!+👋;+Soy+Patricio+Avila!;" />
     <img align="left" src="https://orhun.dev/img/crow.png">
-
 </h1>
 
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" />
-
- 
 
 ### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo FrontEnd con conocimiento BackEnd.
 
@@ -44,11 +39,7 @@
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
     <a style="margin-left: 10px;" target="_blank" rel="noopener noreferrer" href="mailto:p.avilaf1998@gmail.com">
     <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"></a>
- 
-
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
       
@@ -61,6 +52,12 @@
 
 ---
 
+## Aburrido? ¡Ponte a jugar!
+
+Si estás buscando una manera divertida de pasar el tiempo, echa un vistazo a este [juego del gato](https://react-clon-game-gato.vercel.app/). ¡Es un proyecto que he creado y espero que te diviertas jugando!
+
+---
+
  # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
 
 <p align="center">
@@ -69,16 +66,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Avila-Pato&show_icons=true&theme=radical" />
   </a>
   <img title="🔥Hello" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avila-Pato&theme=dark&hide_border=false" />
 </p>
-
-
-
-
-
-
