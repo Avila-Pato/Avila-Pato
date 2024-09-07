@@ -52,9 +52,22 @@
 
 ---
 
-## Aburrido? ¡Ponte a jugar!
+---
 
- echa un vistazo a este [juego del gato](https://react-clon-game-gato.vercel.app/). ¡Es un proyecto que he creado y espero que te diviertas!
+## Proyectos Funnies 🎮
+
+Aquí tienes algunos de mis proyectos más recientes. ¡Echa un vistazo y diviértete!
+
+- 🎨 [Clon de Paint](https://clon-paint.vercel.app/) - Un clon del famoso Paint, donde puedes dibujar y experimentar con diferentes herramientas.
+- 🕵️‍♂️ [Buscaminas en React y TypeScript](https://buscaminas-react-ts.vercel.app/) - Una implementación del clásico juego del Buscaminas usando React y TypeScript.
+- ❓ [Quiz de JavaScript](https://javascript-quizz-two.vercel.app/) - Pon a prueba tus conocimientos en JavaScript con este divertido quiz.
+- 🐵 [Monkey Type (JS, CSS, HTML)](https://monkey-type-js-css-html.vercel.app/) - Una aplicación para practicar la mecanografía con un divertido diseño de mono.
+- 🥁 [Juego de Batería](https://game-bateria.zeabur.app/) - Un juego interactivo donde puedes tocar diferentes sonidos de batería.
+- 🕹️ [Arkanoid](https://arkanoid-game.zeabur.app/) - Un clásico juego de romper bloques con una pelota y una paleta.
+- 🐱 [Juego del Gato](https://react-clon-game-gato.vercel.app/) - Un divertido juego del gato (tic-tac-toe) creado con React.
+
+---
+
 
 ---
 
