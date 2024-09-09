@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" />
 
-### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque principal se centra en el desarrollo FrontEnd con conocimiento BackEnd.
+### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque se centra en tanto en  desarrollo FrontEnd como en el BackEnd.
 
 <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **Acerca De Mi**
 ---
