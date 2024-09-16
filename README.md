@@ -3,8 +3,6 @@
     <img align="left" src="https://orhun.dev/img/crow.png">
 </h1>
 
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="80" />
-
 ### Soy un desarrollador autodidacta en constante aprendizaje en el mundo de la programación. Mi enfoque se centra  tanto en  desarrollo FrontEnd como en el BackEnd.
 
 <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **Acerca De Mi**
@@ -12,7 +10,7 @@
 
 <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" align="right"/>
 
-- :school: Me desarrollo en ambientes como Javascript,Node.js,NestJs React, TypeScript, Java + Spring Boot y MYSQL.
+- :school: Me desarrollo en ambientes como Javascript,Node.js,NestJs, React, TypeScript, Java + Spring Boot y MYSQL.
 - :books: Mi especialidad es **Desarrollo Web**.
 - :earth_asia: Estoy viviendo en **San Bernardo, Santiago, Chile**.
 - :sweat_smile: Soy Por el momento un Junior en programación, con conocimientos en múltiples lenguajes. Actualmente, me estoy enfocando en aprender Desarrollo Web.
