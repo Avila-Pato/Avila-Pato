@@ -50,7 +50,7 @@
 
 ---
 
-## Aburrido Play A Game 🎮
+## Otras webs  🎮
 
 Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces para visitarlos:
 
