@@ -10,7 +10,7 @@
 
 <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" align="right"/>
 
-- :school: Mi Stack: Javascript,Node.js,NestJs,NextJs,ReactJs,TypeScript,MYSQL,MongoDb o firebase.
+- :school:Javascript,React,NextJs,TypeScript,Python
 - :books: Mi especialidad es **Desarrollo Web**.
 - :earth_asia: Estoy viviendo en **San Bernardo, Santiago, Chile**.
 - :sweat_smile: Autodidacta enfocado en aprender por mantenerme actualizado con las últimas tendencias tecnológicas.
