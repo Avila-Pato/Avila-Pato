@@ -7,6 +7,8 @@
 
 <img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> **Acerca De Mi**
 ---
+[![AvilaPato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvilaPato)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" align="right"/>
 
