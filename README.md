@@ -50,11 +50,8 @@
 
 ---
 
-<a href="https://github.com/Avila-Pato">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avila-Pato&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![AvilaPato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvilaPato)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvilaPato)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Cuando me aburro programo  🎮
