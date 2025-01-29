@@ -49,13 +49,8 @@
 </div>
 
 ---
-<a href="https://github.com/Avila-Pato/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Avila-Pato" />
-</a>
-<a href="https://github.com/Avila-Pato">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avila-Pato&layout=compact&langs_count=8&card_width=320" />
-</a>
 
+![Contributions](https://github-readme-stats.vercel.app/api?username=Avila-Pato&count_private=true&show_icons=true&hide=prs&theme=dark)
 
 ## Cuando me aburro programo  🎮
 
