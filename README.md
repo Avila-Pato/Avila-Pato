@@ -50,7 +50,7 @@
 
 ---
 
-![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Avila-Pato&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&hide_progress=true)
 
 
 ## Cuando me aburro programo  🎮
