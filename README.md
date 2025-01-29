@@ -50,6 +50,9 @@
 
 ---
 
+![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Avila-Pato&layout=compact)
+
+
 ## Cuando me aburro programo  🎮
 
 Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces para visitarlos:
