@@ -49,11 +49,12 @@
 </div>
 
 ---
-
-[![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvilaPato)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<a href="https://github.com/Avila-Pato/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Avila-Pato" />
+</a>
+<a href="https://github.com/Avila-Pato">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avila-Pato&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ## Cuando me aburro programo  🎮
