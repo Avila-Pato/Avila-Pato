@@ -50,7 +50,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&layout=compact)
+[![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
