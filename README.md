@@ -50,7 +50,8 @@
 
 ---
 
-[![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)](https://github.com/anuraghazra/github-readme-stats)
+[![Avila-Pato's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvilaPato)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
