@@ -50,7 +50,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avila-Pato&layout=compact)
+
 
 
 ## Cuando me aburro programo  🎮
