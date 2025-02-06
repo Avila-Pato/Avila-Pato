@@ -66,7 +66,7 @@ Aquí tienes algunos de mis proyectos más recientes. Haz clic en los enlaces pa
 
 ---
 
- # <div align="center"> Lenguajes y herramientas que he usado </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
+ # <div align="center"> Lenguajes y Softwares </div> <div align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
 
 <p align="center">
   <a href="https://skillicons.dev">
